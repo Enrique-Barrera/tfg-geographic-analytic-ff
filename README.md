@@ -1,6 +1,9 @@
 # tfg-geographic-analytic-ff
 ## MVP Geographical Analysis of Fast Food Restaurant Openings.
-*Trabajo Fin de Grado Ingeniería de Organización Industrial.
+
+- - -
+
+Trabajo Fin de Grado Ingeniería de Organización Industrial.
 UNIR. Universidad Internacional de la Rioja.
 Autor: Enrique Barrera Jiménez
 
@@ -14,7 +17,8 @@ El objetivo de este trabajo de fin de grado es el desarrollo de un prototipo de 
 
 Para ello, se analizan fuentes de información y se diseña un modelo de datos, se implementan mecanismos de análisis de información geográfica mediante técnicas de geomarketing, y se implementa la ejecución de modelos de machine learning desarrollados ad-hoc para cada cadena de restaurantes usuaria de la solución.
 
-El resultado final del proyecto es un prototipo de aplicación web y restringido geográficamente a la Comunidad de Madrid - totalmente operativo que permite ubicar sobre un mapa una dirección y calcular las ventas estimadas de un Fast Food ubicado en dicha ubicación o en su defecto un score de la calidad de la ubicación.
+El resultado final del proyecto es un prototipo de aplicación web - restringido geográficamente a la Comunidad de Madrid - que permite ubicar sobre un mapa una dirección y calcular las ventas estimadas de un Fast Food ubicado en dicha ubicación o en su defecto un score de la calidad de la ubicación.
+
 
 - - -
 

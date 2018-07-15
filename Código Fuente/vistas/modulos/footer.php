@@ -1,7 +1,8 @@
 <footer class="main-footer">
-		<strong>PFG Ingeniería de Organización Industrial.
-		</strong>
-
-		 Todos los derechos reservados.
-
+	<table width="100%">
+	  <tr>
+		<td align="left"><b>TFG Ingeniería de Organización Industrial. Autor: Enrique Barrera.</b></td>
+		<td align="right">Open Source. Licencia GPL 3.0.</td>
+	  </tr>
+	</table>
 </footer>

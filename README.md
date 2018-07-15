@@ -1,7 +1,8 @@
 # tfg-geographic-analytic-ff
 ## MVP Geographical Analysis of Fast Food Restaurant Openings.
 *Trabajo Fin de Grado Ingeniería de Organización Industrial.
-Autor: Enrique Barrera*
+UNIR. Universidad Internacional de la Rioja.
+Autor: Enrique Barrera Jiménez
 
 - - -
 

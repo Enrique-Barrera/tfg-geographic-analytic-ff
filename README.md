@@ -1,5 +1,9 @@
 # tfg-geographic-analytic-ff
 ## MVP Geographical Analysis of Fast Food Restaurant Openings.
+*Trabajo Fin de Grado Ingeniería de Organización Industrial.
+Autor: Enrique Barrera*
+
+- - -
 
 Prototipo de Aplicación de evaluación de localizaciones para aperturas de puntos de venta en la Comunidad de Madrid en el sector de los Restaurantes de Comida Rápida.
 
